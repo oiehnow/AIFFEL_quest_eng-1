@@ -89,4 +89,3 @@ AIFFEL_quest_eng
 │       └── README.md
 └── README.md
 
-42 directories, 34 files
